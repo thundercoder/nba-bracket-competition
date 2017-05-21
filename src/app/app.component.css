@@ -1,0 +1,82 @@
+#thropy {
+  width: 180px;
+}
+
+.middle-border {
+  /*border-bottom: 1px solid darkgray;*/
+}
+
+.matchup {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 25px;
+  text-align: center;
+}
+
+.conference-title-western {
+  font-weight: bold;
+  font-size: 50px;
+  font-style: italic;
+  padding: 50px 0px 50px 0px;
+}
+
+.conference-title-eastern {
+  font-weight: bold;
+  font-size: 50px;
+  font-style: italic;
+  padding: 50px 0px 50px 0px;
+}
+
+.img-team-logo {
+  width: 55px;
+}
+
+.semi-final-above {
+  margin-top: 105px;
+}
+
+.semi-final-bottom {
+  margin-top: 352px;
+}
+
+.conference-final-matchup-western {
+  margin-top: 0px;
+  margin-left: -150px;
+}
+
+.conference-final-matchup-eastern{
+  margin-top: 0px;
+  margin-right: -150px;
+}
+
+.final-matchup {
+  margin-top: 250px;
+}
+
+.details {
+  font-weight: 400;
+  color: white;
+  font-size: 14px;
+}
+
+.playoff-position {
+  font-weight: 400;
+  color: white;
+  font-size: 18px;
+}
+
+.thropy {
+  background-image: url("../assets/img/Thropy.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 120px;
+  color: white;
+}
+
+.serie-stats {
+  font-weight: bold;
+  color: white;
+  font-size: 25px;
+  margin-top: 25px;
+}
