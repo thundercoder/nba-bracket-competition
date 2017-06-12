@@ -1,3 +1,8 @@
+.container-fluid {
+  /*position: fixed;*/
+  margin: 0 auto;
+}
+
 #thropy {
   width: 180px;
 }
@@ -8,7 +13,7 @@
 
 .matchup {
   color: white;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
   margin: 25px;
   text-align: center;
@@ -16,20 +21,20 @@
 
 .conference-title-western {
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
   font-style: italic;
   padding: 50px 0px 50px 0px;
 }
 
 .conference-title-eastern {
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
   font-style: italic;
   padding: 50px 0px 50px 0px;
 }
 
 .img-team-logo {
-  width: 55px;
+  width: 45px;
 }
 
 .semi-final-above {
@@ -55,9 +60,9 @@
 }
 
 .details {
-  font-weight: 400;
+  font-weight: 200;
   color: white;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .playoff-position {
