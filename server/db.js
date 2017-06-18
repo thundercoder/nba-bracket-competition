@@ -1,6 +1,5 @@
 var MongoClient = require('mongodb').MongoClient, 
-    assert = require('assert'),
-    util = require('util');
+    assert = require('assert');
 
 var state = {
     db: null
